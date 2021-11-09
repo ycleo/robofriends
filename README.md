@@ -2,4 +2,5 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Search your robot friends
+## Search your robot friends  
+<img src="demo-pic.png">
